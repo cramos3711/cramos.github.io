@@ -4,8 +4,8 @@
 
 ### Category Name 1 
 
-[Omaha Police Calls](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Omaha Police Calls](https://public.tableau.com/profile/cesar.ramos3711#!/vizhome/OmahaCrimeStats/CallMaps/)
+<img src="images/tableau call map.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
