@@ -27,7 +27,9 @@
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
-
+- Data Analytics
+- Data Viz
+- Data Management Strategies
 
 ---
 
