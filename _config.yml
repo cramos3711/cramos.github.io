@@ -7,3 +7,5 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://www.linkedin.com/in/cesar-j-ramos-cfe-2b396321/">LinkedIn Profile</a> 
 
 google_analytics: G-HCMVJVK1T6 # your Google Analytics tracking ID here
+
+theme: jekyll-theme-minimal
