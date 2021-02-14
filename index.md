@@ -18,7 +18,7 @@
 <img src="images/tableau call map.png?raw=true"/>
 
 ---
-[Splunk Dashboard of OPD Calls]
+Splunk Dashboard of OPD Calls
 <img src="images/Splunk Call Dashboard.png?raw=true">
 
 [Data Science Presentation](/pdf/Presentation 1.pdf)
