@@ -21,6 +21,10 @@
 Splunk Dashboard of OPD Calls
 <img src="images/Splunk Call Dashboard.png?raw=true">
 
+---
+Search Engine Optimization Sample Work
+<img src="images/SEO report.png?raw=true">
+---
 [Data Science Presentation](/pdf/Presentation 1.pdf)
 <img src="images/presdata.jpg?raw=true"/>
 
